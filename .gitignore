@@ -24,3 +24,6 @@ duper-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+
+/testes_directory
